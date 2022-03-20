@@ -2,7 +2,7 @@
 
 ![overview](./Resources/shotcut.jpg)
 
-[插件下载链接](https://github.com/Juzhan/AlignTool/releases/download/on_publish/)
+[插件下载链接](https://github.com/Juzhan/AlignTool/releases/tag/on_publish)
 
 ## 简介
 <!-- ![detial](./Resources/shotcut_detial.jpg) -->
